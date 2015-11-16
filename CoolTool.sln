@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoolTool", "CoolTool\CoolTool.csproj", "{55EE1CBA-1F72-4960-B52D-424601DC633C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{5EEC410A-C680-4240-8861-795A2F993765}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55EE1CBA-1F72-4960-B52D-424601DC633C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55EE1CBA-1F72-4960-B52D-424601DC633C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55EE1CBA-1F72-4960-B52D-424601DC633C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55EE1CBA-1F72-4960-B52D-424601DC633C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EEC410A-C680-4240-8861-795A2F993765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EEC410A-C680-4240-8861-795A2F993765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EEC410A-C680-4240-8861-795A2F993765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EEC410A-C680-4240-8861-795A2F993765}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
